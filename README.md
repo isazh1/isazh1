@@ -1,5 +1,5 @@
 ## Oi, eu sou a Isabelly
-- 🌱 Estudando html e css
+- 🌱 Estudante de eng. de software
 - 😁 Pronomes: ela/dela
 
 
