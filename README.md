@@ -1,14 +1,12 @@
 ## Oi, eu sou a Isabelly
 - 🌱 Estudante de eng. de software
 - 😁 Pronomes: ela/dela
-
-
 <div align="center">
   <a href="https://github.com/isazh1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isazh1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isazh1&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="./profile/stats.svg"/>
+  <img height="180em" src="./profile/top-langs.svg"/>
 </div>
-
-
+ 
   ![Snake animation](https://raw.githubusercontent.com/isazh1/isazh1/output/github-contribution-grid-snake.svg)
  </div>
+ 
